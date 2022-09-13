@@ -22,12 +22,13 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Top there highest contributing variables are.
+-       - Temp :- temperature in Celsius
+-       - Weather sit :- 
+		        1: Clear, Few clouds, Partly cloudy, Partly cloudy
+		        2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+		        3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+-       - Yr :- year (0: 2018, 1:2019)
 
 
 ## Technologies Used
